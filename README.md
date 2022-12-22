@@ -1,6 +1,6 @@
 ## Dashgo
 
-Dashgo is a simple dashboard project, utilizing Next + ChakraUI + React + React Query + ApexChart + React Hook Form + Yup
+Dashgo is a simple dashboard project, using Next + ChakraUI + React + React Query + ApexChart + React Hook Form + Yup
 
 ## Layout
 ![Screenshot](logo.png)
